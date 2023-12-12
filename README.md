@@ -4,8 +4,8 @@
 ## Profil
 | Variable | Isi |
 | -------- | --- |
-| **Nama** | IHSAN RANGGA MAHENDRA |
-| **NIM** | 312310494 |
+| **Nama** | SAMUEL DAMATTA TINDAON |
+| **NIM** | 312310462 |
 | **Kelas** | TI.23.A.5 |
 | **Mata Kuliah** | Bahasa Pemrograman |
 
